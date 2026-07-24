@@ -39,5 +39,5 @@ Unifies Spotify and YouTube into a single queue synced across up to 7 devices, w
 ### 📫 Reach me
 
 - **Email:** joshi.sus@northeastern.edu
-- **LinkedIn:** [add your URL]
-- **Portfolio:** [add your URL]
+- **LinkedIn:** https://www.linkedin.com/in/sushant-joshi44/
+- **Portfolio:** https://sushant-joshi-mu.vercel.app/
