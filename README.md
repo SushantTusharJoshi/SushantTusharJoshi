@@ -26,6 +26,15 @@ Unifies Spotify and YouTube into a single queue synced across up to 7 devices, w
 
 ---
 
+### 🌱 Open source
+
+- **[shap](https://github.com/shap/shap)** (25.7k★) — 4 PRs including a global NumPy RNG-state corruption fix, a `partial_dependence_plot` axes bug, and a merged TensorFlow warning cleanup
+- **[hiring-agent](https://github.com/interviewstreet/hiring-agent)** (7.1k★) — Groq provider support + upstream-PR detection
+
+I verify every issue is real and uncontested before contributing.
+
+---
+
 ### 🛠️ Tech
 
 **Languages:** Python · Java · C++ · TypeScript · SQL
