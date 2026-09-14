@@ -17,8 +17,7 @@ I care about the unglamorous parts that make AI actually work in production: eva
 
 ### 📌 Featured projects
 
-**[PredictiveCare](https://github.com/SushantTusharJoshi/predictive-care):** HIPAA-compliant clinical risk prediction
-XGBoost + LightGBM on 215M+ clinical events across 200K+ patients. Temporal train/test splits after catching a data-leakage bug. Per-patient SHAP attribution, disparate-impact bias auditing, and human-in-the-loop clinical workflows.
+**[PredictiveCare](https://github.com/SushantTusharJoshi/predictive-care):** HIPAA-aligned clinical risk prediction. XGBoost + LightGBM on 215M+ clinical events across 200K+ patients. Temporal train/test splits after catching a data-leakage bug. Per-patient SHAP attribution, disparate-impact bias auditing, and human-in-the-loop clinical workflows.
 `Python` `FastAPI` `PostgreSQL` `XGBoost` `SHAP` `Next.js`
 
 **[AI Playlist Mixer](https://github.com/SushantTusharJoshi/ai-playlist-mixer):** real-time multi-device music coordination
