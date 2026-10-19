@@ -1,6 +1,8 @@
 # Hi, I'm Sushant 👋
 
-**Applied AI Engineer.** I build and ship LLM systems end to end: RAG pipelines, agent orchestration (MCP), LLM evaluation frameworks, and ML models with explainability. MS in Information Systems, Northeastern (2026). STEM OPT, no sponsorship required.
+**Applied AI Engineer.** I build and ship LLM systems end to end: RAG pipelines, agent orchestration (MCP), LLM evaluation frameworks, and ML models with explainability. MS in Information Systems, Northeastern (2026). F-1 OPT, STEM-eligible.
+
+**NVIDIA Certified Professional — Generative AI & LLMs (NCP-GENL)** | also Associate (NCA-GENL)
 
 I care about the unglamorous parts that make AI actually work in production: evaluation harnesses, deployment gating, latency budgets, and catching the data-leakage bug *before* it ships an AUC of 1.0.
 
@@ -40,6 +42,7 @@ I verify every issue is real and uncontested before contributing.
 **Languages:** Python · Java · C++ · TypeScript · SQL
 **ML/AI:** PyTorch · TensorFlow · scikit-learn · XGBoost · LightGBM · SHAP · Hugging Face · FAISS
 **GenAI:** RAG · MCP · Claude API · OpenAI API · AWS Bedrock · agent orchestration
+**GPU/Inference (NCP-GENL):** TensorRT · ONNX · inference optimization · GPU acceleration · model deployment at scale
 **Backend/Cloud:** FastAPI · Flask · Docker · CI/CD · AWS (Bedrock, S3, Lambda) · PostgreSQL · MongoDB
 
 ---
